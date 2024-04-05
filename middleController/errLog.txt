@@ -1,0 +1,6 @@
+20240405	09:09:26	a78c838f-4922-4f45-a168-8348f7621efc	SyntaxError: Unexpected token ' ', ..."Pressure": 1000}" is not valid JSON
+20240405	09:10:23	85be25f2-28b4-48f3-89b6-a2d7581a9b33	SyntaxError: Unexpected token ' ', ..."Pressure": "1000"}" is not valid JSON
+20240405	09:10:59	7a174846-e416-41ac-af13-bd89c378d259	SyntaxError: Unexpected token ' ', ..."Pressure": "1000"}]" is not valid JSON
+20240405	09:11:50	41d24db8-86ff-4385-aa47-0de43ed7b081	SyntaxError: Unexpected token ' ', ..."Pressure": 1000}]" is not valid JSON
+20240405	12:04:47	39aee166-21bc-445d-a743-2b5f7029e81f	Error: Not allowed by CORS
+20240405	12:05:06	6faabe07-0d6b-4890-abd7-5394f44437c7	Error: Not allowed by CORS

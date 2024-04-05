@@ -3,7 +3,7 @@ const allowedOrigins = [
     'http://localhost:3500',
     'http://localhost:3000',
     'http://localhost:3000/weather',
-    'https://spotless-hen-sari.cyclic.app',
+    'https://weatherapprepo-74z5.onrender.com',
     'http://localhost:3000/map',
     'http://localhost:3000/login'
 ];

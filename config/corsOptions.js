@@ -3,7 +3,8 @@ const whitelist = [
     'http://127.0.0.1:5500',
     'http://localhost:3500',
     'http://localhost:3000',
-    'https://weatherapprepo-74z5.onrender.com'
+    'https://weatherapprepo-74z5.onrender.com',
+    'https://weatherappfrontend-ulez.onrender.com'
 ];
 
 const corsOptions = {
